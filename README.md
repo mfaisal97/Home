@@ -1,4 +1,4 @@
-# dynamicHome
+# Home
 
 This repo was created to provide redirection to my current username in Github in case I change the username. It also provides my different accounts and website
 
