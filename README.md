@@ -1,12 +1,12 @@
 # Home
 
-This repo was created to provide redirection to my current username in Github in case I change the username. It also provides my different accounts and website
+This repo provides links to my different online perosnal webpages and accounts.
 
 ## Personal Website
-Current link: http://mfaisal97.github.io/
+Current link: https://mfaisal97.github.io/
 
 ## Github
-Current link: github.com/mfaisal97
+Current link: https://github.com/mfaisal97
 
 ## Linkedin
-Current link: linkedin.com/in/mfaisal97
+Current link: https://linkedin.com/in/mfaisal97
