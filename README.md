@@ -3,8 +3,8 @@
 This repo provides links to my different online perosnal webpages and accounts.
 
 ## Personal Website
-Under Construction   
-Current link: https://mfaisal97.github.io/
+<!-- Current link: https://mfaisal97.github.io/ -->
+Current link: https://cs-people.bu.edu/mfaisal/
 
 ## Github
 Current link: https://github.com/mfaisal97
